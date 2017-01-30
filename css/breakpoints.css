@@ -1,0 +1,12 @@
+/*Responsive breakpoints handled here*/
+@media only screen and (max-width: 766px) {
+  .name-styles{
+    font-size: 12vw;
+  }
+}
+
+@media only screen and (max-width: 300px) {
+  .name-styles{
+    font-size: 20vw;
+  }
+}

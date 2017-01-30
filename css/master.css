@@ -1,0 +1,68 @@
+*{
+  /*outline: 1px solid red !important;*/
+  background-size: cover;
+  background-position: center center;
+  background-color: #fffba0;
+  color: #3f3f3f;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+li{
+  display: inline-block;
+  padding-left: 5em;
+  padding-right: 5em;
+}
+
+footer{
+  margin-top: 3em;
+}
+
+.body{
+  font-family: 'Quicksand', sans-serif;
+}
+
+.contact-icons{
+  text-align: center;
+}
+
+.indiv-icon{
+  padding: 0 3em 0 3em;
+}
+
+.nav, .navbar, .tab-pane{
+  font-family: 'Quicksand', sans-serif;
+  background-color: #fffba0;
+  color: #3f3f3f;
+}
+
+.navbar{
+  margin-bottom: 0;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.top-of-page{
+  text-align: center;
+}
+
+.name-and-title{
+  background-color: #fffbd1;
+  padding-bottom: 17em;
+}
+
+.name-styles{
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+  font-size: 7vw;
+  margin-top: 1.5em;
+}
+
+.title-styles{
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  padding-bottom: 3em;
+}

@@ -2,7 +2,12 @@
   /*outline: 1px solid red !important;*/
   background-size: cover;
   background-position: center center;
-  color: #3f3f3f;
+  color: #000;
+}
+
+hr{
+  margin: 0px;
+  border: solid 1px #eaeaea !important;
 }
 
 ul {
@@ -23,6 +28,10 @@ footer{
 body{
   font-family: 'Quicksand', sans-serif;
   background-color: #fffba0;
+}
+
+.navbar-default{
+  border: 0px;
 }
 
 .modal-backdrop{

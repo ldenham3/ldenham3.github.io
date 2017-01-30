@@ -2,7 +2,6 @@
   /*outline: 1px solid red !important;*/
   background-size: cover;
   background-position: center center;
-  background-color: #fffba0;
   color: #3f3f3f;
 }
 
@@ -21,8 +20,13 @@ footer{
   padding-bottom: 1em;
 }
 
-.body{
+body{
   font-family: 'Quicksand', sans-serif;
+  background-color: #fffba0;
+}
+
+.modal-backdrop{
+  background-color: #b2b2b2;
 }
 
 .contact-icons{
@@ -34,7 +38,6 @@ footer{
 }
 
 .nav, .navbar, .tab-pane{
-  font-family: 'Quicksand', sans-serif;
   background-color: #fffba0;
   color: #3f3f3f;
 }
@@ -50,7 +53,6 @@ footer{
 }
 
 .name-and-title{
-  background-color: #fffbd1;
   padding-bottom: 17em;
 }
 
@@ -62,7 +64,20 @@ footer{
 }
 
 .title-styles{
-  font-family: 'Quicksand', sans-serif;
   text-align: center;
   padding-bottom: 3em;
+}
+
+#ContactMe{
+  background-color: #edffdd;
+  text-align: center;
+  font-size: 3vw;
+}
+
+#Projects{
+  background-color: #ffddfb;
+}
+
+#AboutMe{
+  background-color: #ddf8ff;
 }

@@ -34,7 +34,8 @@ body{
 }
 
 .indiv-icon{
-  padding: 0 3em 0 3em;
+  padding: 0 7% 0 7%;
+  display: inline;
 }
 
 .nav, .navbar, .tab-pane{

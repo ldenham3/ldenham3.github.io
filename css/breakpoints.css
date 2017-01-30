@@ -1,4 +1,11 @@
 /*Responsive breakpoints handled here*/
+@media only screen and (max-width: 908px) {
+  li{
+    padding-left: 4.2em;
+    padding-right: 4.2em;
+  }
+}
+
 @media only screen and (max-width: 766px) {
   .name-styles{
     font-size: 12vw;

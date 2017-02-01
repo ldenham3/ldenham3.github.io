@@ -30,6 +30,10 @@ body{
   background-color: #fffba0;
 }
 
+h3{
+  margin-top: 0;
+}
+
 .navbar-default{
   border: 0px;
 }
@@ -80,6 +84,15 @@ body{
 .title-styles{
   text-align: center;
   padding-bottom: 3em;
+}
+
+.project-text{
+  float: right;
+  word-wrap: normal;
+}
+
+.project-headers{
+  text-align: center;
 }
 
 #ContactMe{

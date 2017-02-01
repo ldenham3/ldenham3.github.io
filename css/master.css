@@ -95,6 +95,10 @@ h3{
   text-align: center;
 }
 
+.navbar-brand{
+  padding-top: 0;
+}
+
 #ContactMe{
   background-color: #edffdd;
   text-align: center;

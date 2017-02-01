@@ -1,12 +1,12 @@
-*{
+* {
   /*outline: 1px solid red !important;*/
   background-size: cover;
   background-position: center center;
   color: #000;
 }
 
-hr{
-  margin: 0px;
+hr {
+  margin: 0;
   border: solid 1px #eaeaea !important;
 }
 
@@ -15,100 +15,99 @@ ul {
     text-align: center;
 }
 
-li{
+li {
   display: inline-block;
   padding-left: 5em;
   padding-right: 5em;
 }
 
-footer{
+footer {
   padding-bottom: 1em;
 }
 
-body{
+body {
   font-family: 'Quicksand', sans-serif;
   background-color: #fffba0;
 }
 
-h3{
+h3 {
   margin-top: 0;
 }
 
-.navbar-default{
-  border: 0px;
+.navbar-default {
+  border: 0;
 }
 
-.navbar-brand{
-  padding-right: 0px;
+.navbar-brand {
+  padding-right: 0;
 }
 
-.modal-backdrop{
+.modal-backdrop {
   background-color: #b2b2b2;
 }
 
-.contact-icons{
+.contact-icons {
   text-align: center;
 }
 
-.indiv-icon{
+.indiv-icon {
   padding: 0 7% 0 7%;
   display: inline;
 }
 
-.nav, .navbar, .tab-pane{
+.nav, .navbar, .tab-pane {
   background-color: #fffba0;
   color: #3f3f3f;
 }
 
-.navbar{
+.navbar {
   margin-bottom: 0;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding: 1em 0 1em 0;
 }
 
-.top-of-page{
+.top-of-page {
   text-align: center;
 }
 
-.name-and-title{
+.name-and-title {
   padding-bottom: 17em;
 }
 
-.name-styles{
+.name-styles {
   font-family: 'Sacramento', cursive;
   text-align: center;
   font-size: 7vw;
   margin-top: 1.5em;
 }
 
-.title-styles{
+.title-styles {
   text-align: center;
   padding-bottom: 3em;
 }
 
-.project-text{
+.project-text {
   float: right;
   word-wrap: normal;
 }
 
-.project-headers{
+.project-headers {
   text-align: center;
 }
 
-.navbar-brand{
+.navbar-brand {
   padding-top: 0;
 }
 
-#ContactMe{
+#contactme {
   background-color: #edffdd;
   text-align: center;
   font-size: 3vw;
 }
 
-#Projects{
+#projects {
   background-color: #ffddfb;
 }
 
-#AboutMe{
+#aboutme {
   background-color: #ddf8ff;
 }

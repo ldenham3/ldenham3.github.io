@@ -1,26 +1,4 @@
 /*Responsive breakpoints handled here*/
 @media only screen and (max-width: 908px) {
-  li{
-    padding-left: 4.2em;
-    padding-right: 4.2em;
-  }
-}
 
-@media only screen and (max-width: 766px) {
-  .name-styles{
-    font-size: 12vw;
-  }
-}
-
-@media only screen and (max-width: 550px) {
-  .face-logo{
-    width: 50px;
-    height: 50px;
-  }
-}
-
-@media only screen and (max-width: 300px) {
-  .name-styles{
-    font-size: 20vw;
-  }
 }
